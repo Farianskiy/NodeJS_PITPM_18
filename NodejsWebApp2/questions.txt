@@ -1,0 +1,43 @@
+1. The basics of Node.js:
+What is Node.js and its architecture.
+Installing Node.js and npm (Node Package Manager).
+Basics of working with REPL (Read-Eval-Print Loop).
+
+2. Modules and Packages:
+Import and export modules to Node.js.
+Using third-party packages using npm.
+Understanding the difference between global and local packages.
+
+3. File System and Streams:
+Working with files and directories in Node.js.
+Using threads to process data.
+
+4. Asynchronous programming:
+Overview of callbacks and Promises.
+Using async/await to manage asynchronous code.
+
+5. Express.js and web development:
+Introduction to Express.js and creating a web server.
+Working with routes and processing requests.
+Middleware in Express.
+
+6. WebSocket and real time:
+Introduction to WebSocket and the Library Socket.io.
+Creating a chat application with WebSocket.
+
+7. Databases:
+Connecting and working with databases such as MongoDB or MySQL.
+Creating data models and executing queries.
+
+8. Authentication and security:
+Implementation of authentication and authorization in Node.js application.
+Protecting the application from attacks such as injection and CSRF (cross-site request forgery).
+
+9. Testing:
+Using testing frameworks such as Mocha and Chai.
+Writing unit tests and integration tests.
+
+10. Deployment and server management:
+Node deployment.js applications on hosting platforms.
+Using process management, such as PM2.
+
